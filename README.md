@@ -49,6 +49,7 @@ cd talent-show-app
 # Install dependencies:
 
 pip install pyqt5
+pip install pymango
 
 
 # Run the application:
